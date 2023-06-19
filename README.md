@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlBel123
-- 👀 I’m interested in Impressive Websites development, Python, HTML, CSS, Javascript
-- 🌱 I’m currently learning at College for Software Development
+- 👀 I’m interested in Websites development, Python, HTML, CSS, Javascript
+- 🌱 I’m currently studying at College for Software Development
 - 💞️ I’m looking to collaborate on interesting projects for Web and Software development
 - 📫 How to reach me: email clyde20349619@gmail.com
 
